@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Styling for headings */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2em;
+}
+
+/* Adding a slight hover effect to headings */
+h1:hover {
+    color: #e74c3c;
+    text-shadow: 2px 2px #ecf0f1;
+    cursor: pointer;
+}
