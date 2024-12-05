@@ -20,6 +20,6 @@ h1 {
 /* Adding a slight hover effect to headings */
 h1:hover {
     color: #e74c3c;
-    text-shadow: 2px 2px #ecf0f1;
+    text-shadow: 2px 2px #ffbb29;
     cursor: pointer;
 }
